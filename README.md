@@ -1,16 +1,34 @@
-## Hi there 👋
+## Olá, me chamo Luiz Cezar!
 
-<!--
-**LuizC19/LuizC19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por tecnologia e gosto de aprender através da prática.
 
-Here are some ideas to get you started:
+Tenho experiência com suporte técnico, sistemas corporativos e resolução de problemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou focado em desenvolvimento com C# e .NET.
+
+## 🛠️ No que eu gosto de trabalhar:
+
+- C#, .NET e ASP.NET Core
+- APIs REST e desenvolvimento Web
+- SQL Server e Entity Framework Core
+- Testes automatizados e Docker
+- Investigação e resolução de problemas
+
+## 🚀 Projetos:
+
+Atualmente desenvolvo projetos próprios para colocar meus conhecimentos em prática.
+
+Um dos principais é o **DevOpsLab**, uma aplicação desenvolvida com ASP.NET Core,
+SQL Server, Entity Framework Core, Docker, testes automatizados e uma interface Web.
+
+O projeto envolve uma API REST com produtos e categorias, validações,
+tratamento de erros, testes e integração entre aplicações.
+
+## 🎯 Sobre mim:
+
+Sou uma pessoa curiosa, dedicada e persistente.
+Gosto de entender como as coisas funcionam e estou sempre buscando aprender algo novo.
+
+## 🤝 Vamos nos conectar?
+
+[Meu LinkedIn](https://www.linkedin.com/in/luiz-cezar-sampaio-bucheroni-2b8667213/)
