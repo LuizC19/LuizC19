@@ -29,6 +29,6 @@ tratamento de erros, testes e integração entre aplicações.
 Sou uma pessoa curiosa, dedicada e persistente.
 Gosto de entender como as coisas funcionam e estou sempre buscando aprender algo novo.
 
-## 🤝 Vamos nos conectar?
+## 🤝 Conecte-se comigo!
 
 [Meu LinkedIn](https://www.linkedin.com/in/luiz-cezar-sampaio-bucheroni-2b8667213/)
